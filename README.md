@@ -31,7 +31,6 @@ This repository contains a deep learning project for detecting fraudulent transa
 
 The dataset used is the **`creditcard.csv`** file, which is a popular dataset for fraud detection.
 
-> **Note:** The code assumes the file is stored in your Google Drive at `/content/drive/My Drive/creditcard.csv` as it uses `google.colab import drive` and mounts the drive.
 
 ### Execution
 
